@@ -1,7 +1,7 @@
 # Chaos-playground-Opinion-Dynamics
 # Opinion Dynamics Modeling with Coupled ODE Solver
 
-This repository contains MATLAB code `coupled_ode_solver_withplots.m` for simulating opinion dynamics in a system of agents across multiple topics using a sophisticated model.
+This repository contains MATLAB code `coupled_ode_solver_withplots.m` for simulating opinion dynamics in a system of agents across multiple topics using a sophisticated model. Have a look at the PDF for theoretical framework.
 
 ## Features
 - **Opinion Dynamics Model**:
